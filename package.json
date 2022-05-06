@@ -1,0 +1,14 @@
+{
+  "name": "learning-tensorflowjs",
+  "version": "1.0.0",
+  "description": "learning tensors in js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "collins ihezie",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs-node-gpu": "^3.14.0"
+  }
+}
